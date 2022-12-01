@@ -4,12 +4,21 @@
   "description": "Setup a full Discord.JS bot template in seconds. Choose between TypeScript or JavaScript.",
   "main": "index.js",
   "type": "module",
-  "keywords": ["discord.js", "discordjs", "discord-js", "discord", "boilerplate-template", "discord-bot", "template"],
+  "keywords": [
+    "discord.js",
+    "discordjs",
+    "discord-js",
+    "discord",
+    "boilerplate-template",
+    "discord-bot",
+    "template"
+  ],
   "author": "Elitezen",
   "license": "ISC",
   "bin": "./index.js",
   "dependencies": {
     "chalk": "^5.1.2",
+    "figlet": "^1.5.2",
     "git-clone": "^0.2.0",
     "inquirer": "^9.1.4",
     "nanospinner": "^1.1.0"
